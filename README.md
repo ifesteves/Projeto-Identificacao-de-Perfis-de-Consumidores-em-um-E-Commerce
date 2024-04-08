@@ -26,24 +26,6 @@ O conjunto de dados `ecommerce_dataset_us.csv` contém as seguintes colunas:
 
 5. **Documentação do Matplotlib e Seaborn**: Utilizada para criação de gráficos e visualizações que comunicam efetivamente as descobertas da análise exploratória.
 
-## Apresentação de Conclusões
-
-Link para a apresentação em PDF: [Apresentação de Conclusões](link_para_a_apresentacao.pdf)
-
-## Dashboards
-
-### Sugestão 1
-
-1. Diagrama para o número de compras por dia
-2. Indicador para o número de clientes
-3. Filtro de data de compra
-
-### Sugestão 2
-
-1. Diagrama para o total de compras por dia
-2. Histograma de totais de compras individuais
-3. Filtro de data de compra
-
 ## Conclusão
 
 Este projeto nos permitiu entender melhor o comportamento dos clientes da Everything Plus e identificar padrões de compra que podem ser úteis para o desenvolvimento de estratégias de marketing mais eficazes e personalizadas. A segmentação de clientes com base em seus perfis de consumidor nos permitirá oferecer ofertas mais relevantes e aumentar a satisfação do cliente.
